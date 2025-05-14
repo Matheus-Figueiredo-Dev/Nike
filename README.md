@@ -15,7 +15,7 @@ Exibição de banners, produtos e chamadas para ação
 📸 Preview
 ![image](https://github.com/user-attachments/assets/3e6b723b-9ebc-48e3-93b1-cc17086d46da)
 
-🔗 Projeto disponível em
+🔗 Projeto disponível em https://matheus-figueiredo-dev.github.io/Nike/
 
 🧠 Aprendizados
 - Organização de conteúdo visual
